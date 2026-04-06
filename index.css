@@ -5,27 +5,9 @@ box-sizing: border-box;
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  margin: 0;
-}
 h1{font-size: 3.0em;}
 h2{font-size: 2.0em;}
 h3{font-size: 1.0em;}
-p{font-style:none;}
-ul{list-style:none;}
-.color-acento{ color:rgba(1, 141, 24, 0.801); }
-header{
-    background-color:black(38, 11, 174, 0.749);
+    background-color: black;
+    color: white;
 }
-body {
-            background-color: black;
-            color: rgba(11, 177, 210, 0.837);
-            font-family: Arial, sans-serif;
-        }
-        .mi-seccion-negra {
-            background-color:rgb(8, 148, 20);
-            color: rgba(6, 207, 177, 0.89);
-            padding: 20px;
-            margin: 20px auto; /* Para centrar la sección si tiene un ancho definido */
-            width: 80%; /* Ejemplo de ancho */
-            border: 1px solid rgba(6, 146, 201, 0.644);
-        }
-
