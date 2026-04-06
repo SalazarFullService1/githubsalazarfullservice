@@ -21,7 +21,7 @@ body {
             font-family: Arial, sans-serif;
         }
         .mi-seccion-negra {
-            background-color: rgb(8, 148, 20);
+            background-color:rgb(8, 148, 20);
             color: rgba(6, 207, 177, 0.89);
             padding: 20px;
             margin: 20px auto; /* Para centrar la sección si tiene un ancho definido */
